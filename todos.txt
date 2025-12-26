@@ -3,3 +3,4 @@ Write music
 Master Python
 Prepare tasks
 Say hello
+Play
